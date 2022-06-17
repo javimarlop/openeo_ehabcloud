@@ -91,11 +91,5 @@ download_results(job = result_obj$assets, folder = "./result_interannual_mean")
 
 
 
-# NDVI seasonal coefficient of variation [stdDev/Mean]
-
-
-
-# Month of maximum NDVI
-
 
 
